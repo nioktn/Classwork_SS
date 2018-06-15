@@ -1,0 +1,7 @@
+C:\Users\UserVB\source\repos\Basics_9_1_task_point_triangle\Basics_9_1_task_point_triangle\bin\Debug\Basics_9_1_task_point_triangle.exe.config
+C:\Users\UserVB\source\repos\Basics_9_1_task_point_triangle\Basics_9_1_task_point_triangle\bin\Debug\Basics_9_1_task_point_triangle.exe
+C:\Users\UserVB\source\repos\Basics_9_1_task_point_triangle\Basics_9_1_task_point_triangle\bin\Debug\Basics_9_1_task_point_triangle.pdb
+C:\Users\UserVB\source\repos\Basics_9_1_task_point_triangle\Basics_9_1_task_point_triangle\obj\Debug\Basics_9_1_task_point_triangle.csprojAssemblyReference.cache
+C:\Users\UserVB\source\repos\Basics_9_1_task_point_triangle\Basics_9_1_task_point_triangle\obj\Debug\Basics_9_1_task_point_triangle.csproj.CoreCompileInputs.cache
+C:\Users\UserVB\source\repos\Basics_9_1_task_point_triangle\Basics_9_1_task_point_triangle\obj\Debug\Basics_9_1_task_point_triangle.exe
+C:\Users\UserVB\source\repos\Basics_9_1_task_point_triangle\Basics_9_1_task_point_triangle\obj\Debug\Basics_9_1_task_point_triangle.pdb

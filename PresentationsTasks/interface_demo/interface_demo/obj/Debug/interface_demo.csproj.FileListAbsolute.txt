@@ -1,0 +1,7 @@
+C:\Users\UserVB\source\repos\Presentation\interface_demo\interface_demo\bin\Debug\interface_demo.exe.config
+C:\Users\UserVB\source\repos\Presentation\interface_demo\interface_demo\bin\Debug\interface_demo.exe
+C:\Users\UserVB\source\repos\Presentation\interface_demo\interface_demo\bin\Debug\interface_demo.pdb
+C:\Users\UserVB\source\repos\Presentation\interface_demo\interface_demo\obj\Debug\interface_demo.csprojAssemblyReference.cache
+C:\Users\UserVB\source\repos\Presentation\interface_demo\interface_demo\obj\Debug\interface_demo.csproj.CoreCompileInputs.cache
+C:\Users\UserVB\source\repos\Presentation\interface_demo\interface_demo\obj\Debug\interface_demo.exe
+C:\Users\UserVB\source\repos\Presentation\interface_demo\interface_demo\obj\Debug\interface_demo.pdb

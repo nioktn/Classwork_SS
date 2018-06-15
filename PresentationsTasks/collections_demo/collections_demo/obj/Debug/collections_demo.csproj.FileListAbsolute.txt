@@ -1,0 +1,7 @@
+C:\Users\UserVB\source\repos\Presentation\collections_demo\collections_demo\bin\Debug\collections_demo.exe.config
+C:\Users\UserVB\source\repos\Presentation\collections_demo\collections_demo\bin\Debug\collections_demo.exe
+C:\Users\UserVB\source\repos\Presentation\collections_demo\collections_demo\bin\Debug\collections_demo.pdb
+C:\Users\UserVB\source\repos\Presentation\collections_demo\collections_demo\obj\Debug\collections_demo.csprojAssemblyReference.cache
+C:\Users\UserVB\source\repos\Presentation\collections_demo\collections_demo\obj\Debug\collections_demo.csproj.CoreCompileInputs.cache
+C:\Users\UserVB\source\repos\Presentation\collections_demo\collections_demo\obj\Debug\collections_demo.exe
+C:\Users\UserVB\source\repos\Presentation\collections_demo\collections_demo\obj\Debug\collections_demo.pdb
